@@ -13,14 +13,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@azure/functions": "^1.2.3",
-    "azure-functions-core-tools": "^3.0.3233",
-    "npm-run-all": "^4.1.5",
-    "typescript": "^4.1.4"
+    "@azure/functions": "latest",
+    "azure-functions-core-tools": "latest",
+    "npm-run-all": "latest",
+    "typescript": "latest"
   },
   "dependencies": {
-    "apollo-server-azure-functions": "^2.20.0",
-    "graphql": "^15.5.1",
-    "uuidv4": "^6.2.11"
+    "apollo-server-azure-functions": "latest",
+    "graphql": "latest",
+    "uuidv4": "latest"
   }
 }
